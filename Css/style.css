@@ -1,0 +1,30 @@
+body {
+  background-color: #000;
+  color: white;  
+  font-size: 21px;
+}
+p{
+    color: #130f02;
+}
+h1{
+    font-size:  70px;
+    color: pink;
+}
+div {
+    background: white;
+    width: 500px;
+}
+span{
+    color: blue;
+    font-size: large;
+}
+.top-section{
+    background: green;
+}
+.bottom-section{
+    background: blue;
+}
+#bold-text{
+    /*background: chocolate;*/
+    font-weight:bold;
+}
